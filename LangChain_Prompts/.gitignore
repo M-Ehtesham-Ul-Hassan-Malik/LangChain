@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Environment files
+.env
+*.env.*
+
+# Jupyter and IPython
+.ipynb_checkpoints
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/config.toml
+
+# Cache
+*.log
+*.tmp
+*.cache/
+*.pytest_cache/
+__pycache__/
+.cache/
+
+# JSON template artifacts
+# *.json
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Misc
+*.bak
+*.swp
