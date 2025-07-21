@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env.*     # e.g., .env.local, .env.dev
+*.env
+
+# VS Code and JetBrains
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Cache and logs
+*.log
+*.sqlite3
+.cache/
+__pypackages__/
+*.db
+
+# Hugging Face cache
+huggingface/
+hf_cache/
+/3.EmbeddedModels/hf_cache
+./3.EmbeddedModels/hf_cache/
+
+*.safetensors
+*.pt
+*.bin
+
+# pip tools
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Test and coverage files
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# LangChain artifacts (if any are added later)
+*.jsonl
+*.faiss
+*.vectordb/
+
+# Local config
+*.local
+config.yaml
+
+# Books folder
+
+
+# txt
+
+# csv
+
+
